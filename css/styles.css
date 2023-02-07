@@ -13,11 +13,7 @@
 html {
     box-sizing: border-box;
 }
-*,
-*::before,
-*::after {
-    box-sizing: inherit;
-}
+
   /* обнулили автоматичні маржин і падінг*/
 p,
 h1,
